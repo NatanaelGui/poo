@@ -1,0 +1,10 @@
+#Ignora tudo
+*
+
+#Mantem apenas .cpp .h e pastas
+!*.pdf
+!*.cpp
+!*.h
+!*/
+!.*
+
